@@ -1,6 +1,7 @@
 # face-landmark-localization
 This is a project predict face landmarks (68 points) and head pose (3d pose, yaw,roll,pitch).
 
+> caffe 1.0 2017 年后就不更新了，另外 AUR 装不上，废弃
 
 ## Install
 - [caffe](https://github.com/BVLC/caffe)
